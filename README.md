@@ -10,9 +10,7 @@ The dashboard enables business users to identify top-performing customers, monit
 
 ## 📷 Dashboard Preview
 
-> *(Upload Dashboard.png and replace the filename if needed)*
-
-!(dashboard.png)
+![Customer Sales Dashboard](dashboard.png)
 
 ---
 
